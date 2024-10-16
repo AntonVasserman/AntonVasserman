@@ -1,8 +1,10 @@
+<!--
 ### Hello there 👋
 
 I'm Anton (aka Antosh) Vasserman, <br>
 A Software Engineer at Microsoft ILDC, Microsoft Defender Vulnerability Management <br>
 And a Game Programming Student at CG Spectrum <br>
+-->
 
 <!--
 **AntonVasserman/AntonVasserman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
