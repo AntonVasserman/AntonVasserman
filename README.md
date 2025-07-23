@@ -1,6 +1,7 @@
 ### Anton (Antosh) Vasserman, <br>
-- 💻 Software Engineer II at Microsoft ILDC, at [MDVM (Microsoft Defender Vulnearbility Management)](https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-vulnerability-management)
-- 🕹️ Game Programming Student at [CG Spectrum](https://www.cgspectrum.com/)
+- 💻 Gameplay Engineer (looking for my next role)
+- 💻 Previously: Software Engineer II at Microsoft ILDC (2019 - 2025)
+- 🕹️ Game Programming Alumnus at [CG Spectrum](https://www.cgspectrum.com/)
 - 🎮 Gamer at my free time (when there is such)
 
 <!--
