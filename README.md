@@ -1,6 +1,8 @@
 ### Anton (Antosh) Vasserman, <br>
-- 💻 Gameplay Engineer at TriArts Games (2025 - Present)
-- 💻 Previously: Software Engineer II at Microsoft ILDC (2019 - 2025)
+- 💻 Gameplay Engineer
+- 💻 Previously:
+  - Gameplay Engineer at TriArts Games (Aug 2025 - Oct 2025)
+  - Software Engineer II at Microsoft ILDC (2019 - 2025)
 - 🕹️ Game Programming Alumnus at [CG Spectrum](https://www.cgspectrum.com/)
 - 🎮 Gamer at my free time (when there is such)
 
