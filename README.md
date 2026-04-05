@@ -1,9 +1,9 @@
 ### Anton (Antosh) Vasserman, <br>
-- 💻 Gameplay Engineer
-- 💻 Previously:
-  - Gameplay Engineer at TriArts Games (Aug 2025 - Oct 2025)
-  - Software Engineer II at Microsoft ILDC (2019 - 2025)
-- 🕹️ Game Programming Alumnus at [CG Spectrum](https://www.cgspectrum.com/)
+- 💻 Lead Gameplay Engineer at [Unspoken Worlds](https://www.unspokenworlds.com/) (Mar 2026 - Present)
+- 💻 Part-time Gameplay Engineer at [Kyrie Studios](https://www.kyriestudios.com/) (Feb 2026 - Present)
+- 💻 Software Engineer II at Microsoft ILDC (Jul 2019 - Jul 2025)
+- 📖 Unreal Authorized Instructor (Jan 2026 - Present)
+- 🕹️ Game Programming Alumnus at [CG Spectrum](https://www.cgspectrum.com/) (2026)
 - 🎮 Gamer at my free time (when there is such)
 
 <!--
