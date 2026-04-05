@@ -1,4 +1,4 @@
-### Anton (Antosh) Vasserman, <br>
+### Anton (Antoś) Vasserman, <br>
 - 💻 Lead Gameplay Engineer at [Unspoken Worlds](https://www.unspokenworlds.com/) (Mar 2026 - Present)
 - 💻 Part-time Gameplay Engineer at [Kyrie Studios](https://www.kyriestudios.com/) (Feb 2026 - Present)
 - 💻 Software Engineer II at Microsoft ILDC (Jul 2019 - Jul 2025)
